@@ -1,0 +1,58 @@
+.conteneurJeu {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 20px;
+}
+
+
+.grille {
+display: flex;
+flex-direction: column;
+border: 2px solid #000;
+}
+
+
+.ligne {
+display: flex;
+}
+
+
+.case {
+width: 20px;
+height: 20px;
+border: 1px solid #ddd;
+}
+
+
+.serpent {
+background: green;
+}
+
+
+.pomme {
+background: red;
+}
+
+
+.perdu {
+font-size: 22px;
+margin-bottom: 12px;
+color: red;
+}
+
+.bouton {
+padding: 10px 20px;
+margin-bottom: 10px;
+background: #4caf50;
+border: none;
+border-radius: 8px;
+color: white;
+cursor: pointer;
+font-size: 16px;
+}
+
+
+.bouton:hover {
+background: #43a047;
+}
