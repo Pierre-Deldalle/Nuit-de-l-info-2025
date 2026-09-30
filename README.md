@@ -1,24 +1,66 @@
-# Nuit-de-l-info-2025
-# Equipe French Baguettes Croissants de l'IUT de Calais : 
-- DELDALLE Pierre
-- COUSIN Bastien
-- DEQUIDT Clément
+# 🌙 Nuit de l'Info 2025
 
-## Stack choisie : 
-- CSS, JS
-- React.js, Node.js
-- Netlify et Render pour l'hébergement front et back
+Projet réalisé lors de la **Nuit de l'Info 2025** par l'équipe **French Baguettes Croissants** de l'IUT de Calais.
 
-## Informations sur le défi principal :
-Features développées : 
-- page d'accueil avec header, footer et quelques informations
-- page "Qui sommes nous ?" avec plus d'informations sur l'organisation et le snake caché
-- page "Découvrez notre univers" contenant quelques mini-jeux intéractifs pour faire découvrir aux visiteurs les causes défendues par l'organisation de façon ludique
-- page "Forum" contenant un système de communication entre les membres du site possédant un compte permettant de créer des discussions et de parler à l'intérieur, avec un système de thèmes / filtres, et le tout stocké grâce à un backend + BDD
-- un système de création de compte / connexion avec mot de passe, le tout stocké en BDD de façon sécurisé, permettant d'avoir accès au forum, et il est aussi possible de permettre au site de se souvenir de soi
-- pages des mentions légales et de la potilique de confidentialité
+L'objectif était de concevoir et développer, en une nuit, une application web répondant au défi principal de l'événement ainsi qu'à plusieurs défis secondaires.
 
-## Informations sur les défis secondaire : 
-- Le défi "Hidden Snake" est caché sur la page "Qui sommes nous?", en cliquant sur le serpent en bas de la page.
-- La page modifiée en version rétro (défi "On veut du gros pixel !") est celle du Snake sur le thème de Tetris.
-- Le formulaire du défi "Devenez le CTO de votre santé posturale" est accessible via l'icône de formulaire dans le header.
+---
+
+## ✨ Fonctionnalités
+
+- 🏠 Page d'accueil présentant le projet et son univers
+- 🎮 Mini-jeux interactifs permettant de découvrir les causes défendues de manière ludique
+- 💬 Forum avec création de discussions, réponses, thèmes et filtres
+- 👤 Système de création de compte et de connexion
+- 💾 Stockage des utilisateurs et des discussions en base de données
+- 🐍 Mini-jeu Snake caché dans le site
+- 🕹️ Interface rétro inspirée de Tetris pour l'un des défis secondaires
+- 📋 Formulaire interactif autour de la santé posturale
+- ⚖️ Mentions légales et politique de confidentialité
+
+---
+
+## 🛠️ Technologies
+
+**Frontend :** React · JavaScript · CSS  
+**Backend :** Node.js  
+**Base de données :** Gestion des comptes, discussions et messages  
+**Déploiement :** Netlify · Render
+
+---
+
+## 🏆 Défis réalisés
+
+En plus du défi principal, nous avons participé à plusieurs défis secondaires :
+
+- 🐍 **Hidden Snake** — Un Snake caché dans la page « Qui sommes-nous ? »
+- 👾 **On veut du gros pixel !** — Une version rétro du Snake inspirée de Tetris
+- 🧍 **Devenez le CTO de votre santé posturale** — Intégration d'un formulaire dédié
+
+---
+
+## 👥 Équipe
+
+**French Baguettes Croissants — IUT de Calais**
+
+- Pierre Deldalle
+- Bastien Cousin
+- Clément Dequidt
+
+---
+
+## 👨‍💻 Ma contribution
+
+J'ai participé à la conception de la maquette et du wireframe du projet.
+
+J'ai également réalisé deux des défis secondaires :
+- 🐍 **Hidden Snake** — Création et intégration du mini-jeu Snake caché
+- 👾 **On veut du gros pixel !** — Création de l'interface rétro du jeu, inspirée de Tetris
+
+J'ai aussi contribué au développement de plusieurs pages du site, notamment sur des éléments nécessitant des intégrations et personnalisations visuelles spécifiques.
+
+---
+
+<p align="center">
+  Projet réalisé lors de la <strong>Nuit de l'Info 2025</strong> 🌙
+</p>
